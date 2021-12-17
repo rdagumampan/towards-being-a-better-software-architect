@@ -1,10 +1,14 @@
-# Towardes-a-better-software-architect
+# Towards-being-a-better-software-architect
 Just collection of resources I find helpful in developer software architect skills
 
 ## Real Life
+Architecture in real life and field experiecnces in implementing various architecture styles, patterns and practices.
+
 - http://highscalability.com/blog/category/example
 
 ## Styles
+
+
 - https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/
 - https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier
 - https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices
@@ -21,6 +25,7 @@ Just collection of resources I find helpful in developer software architect skil
 - https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/
 - https://12factor.net/
 - https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
+- https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658124(v=pandp.10)
 
 ## Portals
 - https://www.infoq.com/architecture-design/
