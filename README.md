@@ -6,8 +6,8 @@ Architecture in real life and field experiecnces in implementing various archite
 
 - http://highscalability.com/blog/category/example
 
-## Styles & Patterns
-Highest level view of the system design
+## Architecture Styles
+Highest level view of the system design.
 
 - https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/
 - https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier
@@ -18,12 +18,15 @@ Highest level view of the system design
 - https://microservices.io/
 - https://kubernetes.io/
 
+## Architecture Patterns
+Well known solutions to achieve the chosen architecture style.
+
 ## Design Patterns
 Well known tactical solutions to solve common and recurring problems at the code level.
 
 - https://docs.microsoft.com/en-us/azure/architecture/patterns/
 
-## Principles
+## Design Principles
 General guidance for a better solution and application design.
 
 - https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/
@@ -152,6 +155,10 @@ Influential books and inspiring authors to follow.
 ## Tips
 - http://jheyman.github.io/blog/pages/VisioTips/
 
-## Contributing
-<TODO>
+## References
+
+- https://herbertograca.com/2017/07/28/architectural-styles-vs-architectural-patterns-vs-design-patterns/
+- https://stackoverflow.com/questions/3958316/whats-the-difference-between-architectural-patterns-and-architectural-styles
+- https://herbertograca.com/category/development/series/the-software-architecture-chronicles/  
+- https://singhdivesh.medium.com/according-to-wikipedia-b1afa6de08c
 
