@@ -8,7 +8,6 @@ Architecture in real life and field experiecnces in implementing various archite
 
 ## Styles
 
-
 - https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/
 - https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier
 - https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices
@@ -54,12 +53,12 @@ Architecture in real life and field experiecnces in implementing various archite
 - https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software
 - https://www.microsoft.com/en-us/microsoft-365/powerpoint
 
-## Whiteboard Tools
+## Whiteboards
 - https://miro.com/
 - https://sketchboard.io/
 - http://en.linoit.com/
 
-## Modelling Tools
+## Models
 - https://www.archimatetool.com/
 - https://www.sparxsystems.eu/
 
