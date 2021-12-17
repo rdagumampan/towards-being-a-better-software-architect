@@ -32,7 +32,7 @@ Well known tactical solutions to solve common and recurring problems at the leve
 
 - https://www.dofactory.com/net/design-patterns
 
-## Design Principles
+## Principles
 General guidance for a better solution and application design.
 
 - https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/
