@@ -24,6 +24,8 @@ Well known tactical solutions to solve common and recurring problems at the code
 - https://docs.microsoft.com/en-us/azure/architecture/patterns/
 
 ## Principles
+General guidance for a better solution and application design.
+
 - https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/
 - https://12factor.net/
 - https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
