@@ -30,24 +30,28 @@ Just collection of resources I find helpful in developer software architect skil
 - https://gdpr-info.eu/
 
 ## Diagrams
-- Visio
-- Draw.io
-- Miro
-- Powerpoint
+- https://app.diagrams.net/
+- https://www.lucidchart.com/
+- https://www.visual-paradigm.com/
+- https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software
+- https://www.microsoft.com/en-us/microsoft-365/powerpoint
+
+## Whiteboards
+- https://miro.com/
+- https://sketchboard.io/
+- http://en.linoit.com/
 
 ## Models
-- Sparx Enterprise Architect
+- https://www.archimatetool.com/
+- https://www.sparxsystems.eu/
 
 ## Visuals
 - <insert here>
 - <insert here>
 
-## Tips
-http://jheyman.github.io/blog/pages/VisioTips/
-
 ## Reference Architectures
-- <insert here>
-- <insert here>
+- https://docs.microsoft.com/en-us/azure/architecture/browse/
+- https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-start-here
 
 ## Certifications
 - https://www.iasaglobal.org//certifications/
@@ -81,4 +85,9 @@ http://jheyman.github.io/blog/pages/VisioTips/
 - https://www.forrester.com/blogs/category/architecture-technology-strategy/
 - https://www.thoughtworks.com/insights/technology
 
+## Tips
+- http://jheyman.github.io/blog/pages/VisioTips/
+
+## Contributing
+<TODO>
 
