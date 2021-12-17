@@ -4,11 +4,18 @@ Just collection of resources I find helpful in developer software architect skil
 ## Real Life Architecture
 - http://highscalability.com/blog/category/example
 
-## Patterns
+## Styles
+- https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/
+- https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier
+- https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices
+- https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/event-driven
+- https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/big-data
+- https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/big-compute
 - https://microservices.io/
 - https://kubernetes.io/
-  
+
 ## Portals
+- https://docs.microsoft.com/en-us/azure/architecture/
 - https://www.infoq.com/architecture-design/
 - https://www.thoughtworks.com/insights/articles
 
