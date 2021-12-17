@@ -6,11 +6,11 @@ Architecture in real life and field experiecnces in implementing various archite
 
 - http://highscalability.com/blog/category/example
 
-## Architecture Practice
+## Practice
 - https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/
 - https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
 
-## Architecture Styles
+## Styles
 How the system is going to be constructed and serves as framework eveluating the candidate solutions.
 
 - https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier
@@ -22,12 +22,12 @@ How the system is going to be constructed and serves as framework eveluating the
 - https://microservices.io/
 - https://kubernetes.io/
 
-## Architecture Patterns
+## Patterns
 Well known solutions to achieve the selected architecture styles at the level of subsystems, modules and components.
 
 - https://docs.microsoft.com/en-us/azure/architecture/patterns/
 
-## Design Patterns
+## Designs
 Well known tactical solutions to solve common and recurring problems at the level of classes and functions in code.
 
 - https://www.dofactory.com/net/design-patterns
