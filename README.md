@@ -7,7 +7,7 @@ Architecture in real life and field experiecnces in implementing various archite
 - http://highscalability.com/blog/category/example
 
 ## Architecture Styles
-Highest level view of the system design.
+Highest level view of how the system is going to be constructed.
 
 - https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/
 - https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier
@@ -19,10 +19,10 @@ Highest level view of the system design.
 - https://kubernetes.io/
 
 ## Architecture Patterns
-Well known solutions to achieve the chosen architecture style.
+Well known solutions to achieve the selected architecture styles at the level of subsystems, modules and components.
 
 ## Design Patterns
-Well known tactical solutions to solve common and recurring problems at the code level.
+Well known tactical solutions to solve common and recurring problems at the level of classes and functions in code.
 
 - https://docs.microsoft.com/en-us/azure/architecture/patterns/
 
