@@ -93,7 +93,8 @@ Just collection of resources I find helpful in developer software architect skil
 - https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights
 - https://www.forrester.com/blogs/category/architecture-technology-strategy/
 - https://www.thoughtworks.com/insights/technology
-
+- https://blogs.idc.com/category/markets-and-trends/
+  
 ## Books
 - Domain Driven Design https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215
 - Clean Architecture https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164
