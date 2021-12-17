@@ -97,12 +97,17 @@ Just collection of resources I find helpful in developer software architect skil
 ## Books
 - Domain Driven Design https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215
 - Clean Architecture https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164
+- Software Architecture: The Hard Parts https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894
 - Enterprise Integration Patterns https://www.amazon.com/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683
 - Designing Data Intensive Applications https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321
 - Design Patterns - https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612
 - Refactoring to Patterns https://www.amazon.com/Refactoring-Patterns-Addison-Wesley-Signature-Fowler-ebook/dp/B001TKD4RQ
+- Pragmatic Programmer https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052
 - The Managers Path https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
 - Mythical Man Month https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959
+- The DevOps Handbook https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1950508404
+- Team Topologies https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819
+- Accelerate https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339
 
 ## Tips
 - http://jheyman.github.io/blog/pages/VisioTips/
