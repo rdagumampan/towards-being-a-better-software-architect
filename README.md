@@ -1,7 +1,7 @@
 # better-software-architect
 Just collection of resources I find helpful in developer software architect skills
 
-## Real Life Architecture
+## Real Life
 - http://highscalability.com/blog/category/example
 
 ## Styles
@@ -14,26 +14,24 @@ Just collection of resources I find helpful in developer software architect skil
 - https://microservices.io/
 - https://kubernetes.io/
 
+## Patterns
+- https://docs.microsoft.com/en-us/azure/architecture/patterns/
+
 ## Principles
 - https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/
 - https://12factor.net/
 - https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
 
-## Patterns
-- https://docs.microsoft.com/en-us/azure/architecture/patterns/
-
 ## Portals
-- https://docs.microsoft.com/en-us/azure/architecture/
 - https://www.infoq.com/architecture-design/
 - https://www.thoughtworks.com/insights/articles
-
+- https://docs.microsoft.com/en-us/azure/architecture/
+- https://aws.amazon.com/architecture/
+- https://cloud.google.com/architecture
 
 ## People
 - https://architectelevator.com/
 - https://www.developertoarchitect.com/lessons/
-- 
-  
-## Engagement
 
 ## Security
 - https://attack.mitre.org/
@@ -51,18 +49,14 @@ Just collection of resources I find helpful in developer software architect skil
 - https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software
 - https://www.microsoft.com/en-us/microsoft-365/powerpoint
 
-## Whiteboards
+## Whiteboard Tools
 - https://miro.com/
 - https://sketchboard.io/
 - http://en.linoit.com/
 
-## Models
+## Modelling Tools
 - https://www.archimatetool.com/
 - https://www.sparxsystems.eu/
-
-## Visuals
-- <insert here>
-- <insert here>
 
 ## Reference Architectures
 - https://docs.microsoft.com/en-us/azure/architecture/browse/
