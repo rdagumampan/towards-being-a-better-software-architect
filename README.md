@@ -7,7 +7,7 @@ Architecture in real life and field experiecnces in implementing various archite
 - http://highscalability.com/blog/category/example
 
 ## Architecture Styles
-Highest level view of how the system is going to be constructed.
+How the system is going to be constructed and serves as framework eveluating the candidate solutions.
 
 - https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/
 - https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier
