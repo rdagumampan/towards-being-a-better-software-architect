@@ -14,6 +14,14 @@ Just collection of resources I find helpful in developer software architect skil
 - https://microservices.io/
 - https://kubernetes.io/
 
+## Principles
+- https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/
+- https://12factor.net/
+- https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
+
+## Patterns
+- https://docs.microsoft.com/en-us/azure/architecture/patterns/
+
 ## Portals
 - https://docs.microsoft.com/en-us/azure/architecture/
 - https://www.infoq.com/architecture-design/
