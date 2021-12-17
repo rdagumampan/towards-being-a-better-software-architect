@@ -94,6 +94,16 @@ Just collection of resources I find helpful in developer software architect skil
 - https://www.forrester.com/blogs/category/architecture-technology-strategy/
 - https://www.thoughtworks.com/insights/technology
 
+## Books
+- Domain Driven Design https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215
+- Clean Architecture https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164
+- Enterprise Integration Patterns https://www.amazon.com/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683
+- Designing Data Intensive Applications https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321
+- Design Patterns - https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612
+- Refactoring to Patterns https://www.amazon.com/Refactoring-Patterns-Addison-Wesley-Signature-Fowler-ebook/dp/B001TKD4RQ
+- The Managers Path https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
+- Mythical Man Month https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959
+
 ## Tips
 - http://jheyman.github.io/blog/pages/VisioTips/
 
