@@ -1,5 +1,5 @@
 # Towards-being-a-better-software-architect
-Just collection of resources that has been influential in my journey towards being a software architect. I don't claim to have read and mastered everything listed here but merely for the purpose of record keeping and quick lookup when I need to on my day-to-day work. I hope you may find inspiration in the many sites and people listed here.
+This is a collection of resources that has been influential in my journey towards being a software architect. I don't claim to have read and mastered everything listed here but I made this for record keeping and quick lookup when I need to on my day-to-day work. I hope you may find inspiration in the many sites and people listed here.
 
 ## Real Life
 Architecture in real life and field experiecnces in implementing various architecture styles, patterns and practices.
