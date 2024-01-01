@@ -111,14 +111,18 @@ Badges to show that may help acknowledge our degree of your experience and exper
 - https://docs.microsoft.com/en-gb/learn/certifications/browse/?resource_type=examination&roles=solution-architect
 - https://aws.amazon.com/certification/certified-solutions-architect-associate/?nc1=f_ls
 
-## Medium Aggregators
-High quality collection of articles pubished on medium.
-
-- <insert here>
-- <insert here>
-
 ## Youtube Channels
 Inspiring talks, channels and content all about architecture.
+
+- https://www.youtube.com/@MarcoLenzo
+- https://www.youtube.com/@markrichards5014
+- https://www.youtube.com/@memilavi-thesoftwarearchit9475
+- https://www.youtube.com/@HealthyDev
+- https://www.youtube.com/@hnasr
+- https://www.youtube.com/@infoq
+
+## Medium Aggregators
+High quality collection of articles pubished on medium.
 
 - <insert here>
 - <insert here>
