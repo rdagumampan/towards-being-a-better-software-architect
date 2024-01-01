@@ -114,12 +114,15 @@ Badges to show that may help acknowledge our degree of your experience and exper
 ## Youtube Channels
 Inspiring talks, channels and content all about architecture.
 
-- https://www.youtube.com/@MarcoLenzo
-- https://www.youtube.com/@markrichards5014
-- https://www.youtube.com/@memilavi-thesoftwarearchit9475
-- https://www.youtube.com/@HealthyDev
-- https://www.youtube.com/@hnasr
 - https://www.youtube.com/@infoq
+- https://www.youtube.com/@ByteByteGo
+- https://www.youtube.com/@ContinuousDelivery
+- https://www.youtube.com/@MarcoLenzo
+- https://www.youtube.com/@hnasr
+- https://www.youtube.com/@markrichards5014
+- https://www.youtube.com/@HealthyDev
+- https://www.youtube.com/@memilavi-thesoftwarearchit9475
+- https://www.youtube.com/@DevMentorsEN
 
 ## Medium Aggregators
 High quality collection of articles pubished on medium.
