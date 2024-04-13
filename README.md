@@ -12,6 +12,7 @@ This is a collection of resources that has been influential in my journey toward
 - https://www.gartner.com/en/articles/what-are-ai-architects-and-what-do-they-do
 - Create a Data Strategy to Ensure Success in Machine Learning Initiatives
   https://www.gartner.com/document/code/741114?ref=authbody&refval=4002780
+- https://www.coursera.org/articles/ai-architect
 
 ## Real Life
 Architecture in real life and field experiecnces in implementing various architecture styles, patterns and practices.
