@@ -3,6 +3,7 @@ This is a collection of resources that has been influential in my journey toward
 
 ## Data Science
 - https://ibm.github.io/data-science-best-practices/architecture.html
+- https://developer.ibm.com/articles/architectural-thinking-in-the-wild-west-of-data-science/
 
 ## Real Life
 Architecture in real life and field experiecnces in implementing various architecture styles, patterns and practices.
