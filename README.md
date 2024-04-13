@@ -1,10 +1,17 @@
 # Towards-being-a-better-software-architect
 This is a collection of resources that has been influential in my journey towards being a software architect. I don't claim to have read and mastered everything listed here but I made this for record keeping and quick lookup when I need to on my day-to-day work. I hope you may find inspiration in the many sites and people listed here.
 
-## Data Science
+## Data Science and AI
 - https://ibm.github.io/data-science-best-practices/architecture.html
 - https://developer.ibm.com/articles/architectural-thinking-in-the-wild-west-of-data-science/
 - https://thedatascientist.com/data-science-architect/
+- https://www.roberthalf.com/us/en/insights/career-development/how-to-become-an-artificial-intelligence-architect
+- https://www.simplilearn.com/how-to-become-machine-learning-architect-article
+- https://learn.microsoft.com/en-us/azure/architecture/ai-ml/
+- https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/customer-lifecycle-churn
+- https://www.gartner.com/en/articles/what-are-ai-architects-and-what-do-they-do
+- Create a Data Strategy to Ensure Success in Machine Learning Initiatives
+  https://www.gartner.com/document/code/741114?ref=authbody&refval=4002780
 
 ## Real Life
 Architecture in real life and field experiecnces in implementing various architecture styles, patterns and practices.
