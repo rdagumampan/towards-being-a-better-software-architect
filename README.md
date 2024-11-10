@@ -1,7 +1,7 @@
-# Towards-being-a-better-software-architect
+### Towards-being-a-better-software-architect
 This is a collection of resources that has been influential in my journey towards being a software architect. I don't claim to have read and mastered everything listed here but I made this for record keeping and quick lookup when I need to on my day-to-day work. I hope you may find inspiration in the many sites and people listed here.
 
-## Data Science and AI
+#### Data Science and AI
 - https://ibm.github.io/data-science-best-practices/architecture.html
 - https://developer.ibm.com/articles/architectural-thinking-in-the-wild-west-of-data-science/
 - https://thedatascientist.com/data-science-architect/
@@ -14,7 +14,7 @@ This is a collection of resources that has been influential in my journey toward
   https://www.gartner.com/document/code/741114?ref=authbody&refval=4002780
 - https://www.coursera.org/articles/ai-architect
 
-## Architecture in Real Life Practice
+#### Architecture in Real Life Practice
 Architecture in real life and field experiecnces in implementing various architecture styles, patterns and practices.
 
 - Netflix https://highscalability.com/netflix-what-happens-when-you-press-play/
@@ -36,11 +36,11 @@ Architecture in real life and field experiecnces in implementing various archite
 - Grab https://engineering.grab.com/how-we-store-millions-orders
 - Duolingo https://www.infoq.com/presentations/duolingo-high-scale-notification/
 
-## Practice
+#### Practice
 - https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/
 - https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
 
-## Styles
+#### Styles
 How the system is going to be constructed and serves as framework eveluating the candidate solutions.
 
 - https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier
@@ -52,17 +52,17 @@ How the system is going to be constructed and serves as framework eveluating the
 - https://microservices.io/
 - https://kubernetes.io/
 
-## Patterns
+#### Patterns
 Well known solutions to achieve the selected architecture styles at the level of subsystems, modules and components.
 
 - https://docs.microsoft.com/en-us/azure/architecture/patterns/
 
-## Designs
+#### Designs
 Well known tactical solutions to solve common and recurring problems at the level of classes and functions in code.
 
 - https://www.dofactory.com/net/design-patterns
 
-## Principles
+#### Principles
 General guidance for a better solution and application design.
 
 - https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/
@@ -70,7 +70,7 @@ General guidance for a better solution and application design.
 - https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
 - https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658124(v=pandp.10)
 
-## Portals
+#### Portals
 Specialized sites aggregating software architecture content.
 
 - https://www.infoq.com/architecture-design/
@@ -79,7 +79,7 @@ Specialized sites aggregating software architecture content.
 - https://aws.amazon.com/architecture/
 - https://cloud.google.com/architecture
 
-## Engineering
+#### Engineering
 - Spotify https://engineering.atspotify.com/
 - Stripe https://stripe.com/blog/engineering
 - Wise https://medium.com/wise-engineering
@@ -90,7 +90,7 @@ Specialized sites aggregating software architecture content.
 - Netflix https://netflixtechblog.com/
 - 
 
-## People
+#### People
 Inspiring architects, authoris and techn people to follow.
 
 - https://architectelevator.com/
@@ -102,27 +102,27 @@ Inspiring architects, authoris and techn people to follow.
 - https://nealford.com/
 - https://www.michaelnygard.com/
 
-## Security
+#### Security
 Helpful security frameworks to consider applying threat model into our architecture
 
 - https://attack.mitre.org/
 - https://www.microsoft.com/en-us/securityengineering/sdl
   
-## Compliance
+#### Compliance
 Regulatory compliance entites to highly consider in architecture and design.
 
 - https://www.nerc.com/pa/Stand/Pages/CIPStandards.aspx
 - https://www.ncsc.gov.uk/collection/caf
 - https://gdpr-info.eu/
 
-## Whiteboards
+#### Whiteboards
 Colloboration tools with flavors to be used as diagram tool.
 
 - https://miro.com/
 - https://sketchboard.io/
 - http://en.linoit.com/
 
-## Diagrams
+#### Diagrams
 Diagram tools with a lot more free hand. 
 
 - https://app.diagrams.net/
@@ -131,19 +131,19 @@ Diagram tools with a lot more free hand.
 - https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software
 - https://www.microsoft.com/en-us/microsoft-365/powerpoint
 
-## Models
+#### Models
 Diagram tools with a metatadata database to re-use the objects accross multiple viewpoints.
 
 - https://www.archimatetool.com/
 - https://www.sparxsystems.eu/
 
-## Reference Architectures
+#### Reference Architectures
 Blueprint to use if you are to start from blank.
 
 - https://docs.microsoft.com/en-us/azure/architecture/browse/
 - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-start-here
 
-## Certifications
+#### Certifications
 Badges to show that may help acknowledge our degree of your experience and expertise.
 
 - https://www.iasaglobal.org//certifications/
@@ -152,7 +152,7 @@ Badges to show that may help acknowledge our degree of your experience and exper
 - https://docs.microsoft.com/en-gb/learn/certifications/browse/?resource_type=examination&roles=solution-architect
 - https://aws.amazon.com/certification/certified-solutions-architect-associate/?nc1=f_ls
 
-## Youtube Channels
+#### Youtube Channels
 Inspiring talks, channels and content all about architecture.
 
 - https://www.youtube.com/@infoq
@@ -165,19 +165,19 @@ Inspiring talks, channels and content all about architecture.
 - https://www.youtube.com/@memilavi-thesoftwarearchit9475
 - https://www.youtube.com/@DevMentorsEN
 
-## Medium Aggregators
+#### Medium Aggregators
 High quality collection of articles pubished on medium.
 
 - <insert here>
 - <insert here>
 
-## Facebook Groups
+#### Facebook Groups
 The new forums online where we can openly talk about architecture and design.  
  
 - <insert here>
 - <insert here>
 
-## Open Foundations
+#### Open Foundations
 Open source consortioms that influence the maturity of many technologies we use to realize our target architecture.
 
 - https://www.cncf.io/
@@ -186,7 +186,7 @@ Open source consortioms that influence the maturity of many technologies we use 
 - https://www.iotsecurityfoundation.org/
 - 
 
-## Market Research
+#### Market Research
 Management level inputs that can influence our architecture designs particularly at the enterprise level.
   
 - https://www.gartner.com/en/information-technology
@@ -195,7 +195,7 @@ Management level inputs that can influence our architecture designs particularly
 - https://www.thoughtworks.com/insights/technology
 - https://blogs.idc.com/category/markets-and-trends/
   
-## Books
+#### Books
 Influential books and inspiring authors to follow.\
 - Domain Driven Design https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215
 - Clean Architecture https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164
@@ -212,10 +212,10 @@ Influential books and inspiring authors to follow.\
 - Refactoring to Patterns https://www.amazon.com/Refactoring-Patterns-Addison-Wesley-Signature-Fowler-ebook/dp/B001TKD4RQ
 - The Pragmatic Programmer https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X
 
-## Tips
+#### Tips
 - http://jheyman.github.io/blog/pages/VisioTips/
 
-## References
+#### References
 
 - https://herbertograca.com/2017/07/28/architectural-styles-vs-architectural-patterns-vs-design-patterns/
 - https://stackoverflow.com/questions/3958316/whats-the-difference-between-architectural-patterns-and-architectural-styles
