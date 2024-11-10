@@ -14,10 +14,24 @@ This is a collection of resources that has been influential in my journey toward
   https://www.gartner.com/document/code/741114?ref=authbody&refval=4002780
 - https://www.coursera.org/articles/ai-architect
 
-## Real Life
+## Architecture in Real Life Practice
 Architecture in real life and field experiecnces in implementing various architecture styles, patterns and practices.
 
-- http://highscalability.com/blog/category/example
+- Netflix https://highscalability.com/netflix-what-happens-when-you-press-play/
+- Uber Scaling https://highscalability.com/brief-history-of-scaling-uber/
+- Meta Presto https://highscalability.com/lessons-learned-running-presto-at-meta-scale/
+- Max reHIT Workout https://highscalability.com/architecture-of-max-rehit-workout/
+- TripleLift https://highscalability.com/how-triplelift-built-an-adtech-data-pipeline-processing-bill/
+- Zoom https://highscalability.com/a-short-on-how-zoom-works/
+- Uber DataMesh https://www.uber.com/en-DK/blog/datamesh
+- Egnyte https://highscalability.com/egnyte-architecture-lessons-learned-in-building-and-scaling-65bcda83ffae163275932626/
+- ShiftLeft https://highscalability.com/how-shiftleft-uses-postgresql-extension-timescaledb/
+- AdCash https://highscalability.com/adcash-1-trillion-http-requests-per-month/
+- Yandex https://highscalability.com/adcash-1-trillion-http-requests-per-month/
+- MorningStar https://highscalability.com/why-morningstar-moved-to-the-cloud-97-cost-reduction/
+- HelloFresh https://highscalability.com/scaling-hellofresh-api-gateway/
+- Optimizely https://highscalability.com/the-story-of-batching-to-streaming-analytics-at-optimizely/
+- https://www.infoq.com/news/2024/07/decathlon-architecture-process/?topicPageSponsorship=5c002745-f1c7-4730-a95c-7de721e76f77
 
 ## Practice
 - https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/
