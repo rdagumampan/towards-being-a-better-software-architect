@@ -31,8 +31,9 @@ Architecture in real life and field experiecnces in implementing various archite
 - MorningStar https://highscalability.com/why-morningstar-moved-to-the-cloud-97-cost-reduction/
 - HelloFresh https://highscalability.com/scaling-hellofresh-api-gateway/
 - Optimizely https://highscalability.com/the-story-of-batching-to-streaming-analytics-at-optimizely/
-- https://www.infoq.com/news/2024/07/decathlon-architecture-process/?topicPageSponsorship=5c002745-f1c7-4730-a95c-7de721e76f77
 - Zalando https://engineering.zalando.com/posts/2017/10/event-first-development---moving-towards-kafka-pipeline-applications.html
+- Decathlon https://www.infoq.com/news/2024/07/decathlon-architecture-process/?topicPageSponsorship=5c002745-f1c7-4730-a95c-7de721e76f77Q
+- Grab https://engineering.grab.com/how-we-store-millions-orders
 
 ## Practice
 - https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/
