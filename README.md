@@ -79,6 +79,17 @@ Specialized sites aggregating software architecture content.
 - https://aws.amazon.com/architecture/
 - https://cloud.google.com/architecture
 
+## Engineering
+- Spotify https://engineering.atspotify.com/
+- Stripe https://stripe.com/blog/engineering
+- Wise https://medium.com/wise-engineering
+- Uber https://www.uber.com/en-DK/blog/engineering/
+- Zalando https://engineering.zalando.com/
+- Grab https://engineering.grab.com/
+- Meta https://engineering.fb.com/
+- Netflix https://netflixtechblog.com/
+- 
+
 ## People
 Inspiring architects, authoris and techn people to follow.
 
