@@ -113,7 +113,11 @@ Regulatory compliance entites to highly consider in architecture and design.
 
 - https://www.nerc.com/pa/Stand/Pages/CIPStandards.aspx
 - https://www.ncsc.gov.uk/collection/caf
-- https://gdpr-info.eu/
+- EU General Data Protection Regulation (GDPR) https://gdpr-info.eu/
+- EU NIS2 Directive https://nis2directive.eu/
+- EU Artificial Intelligence Act (AIA) https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
+- EU Digital Services Act (DMA) https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package
+- EU Digital Markets Act (DSA) https://digital-markets-act.ec.europa.eu/index_en
 
 #### Whiteboards
 Colloboration tools with flavors to be used as diagram tool.
